@@ -1,0 +1,2 @@
+Java file writing works.
+This file was created by the Module 1 setup check.
